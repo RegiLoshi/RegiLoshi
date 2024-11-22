@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Instagram Clone**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning about compilers
 
 - 👨‍💻 All of my projects are available at [regiloshi.com](regiloshi.com)
 
