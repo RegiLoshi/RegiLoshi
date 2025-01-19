@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I am Regi Loshi</h1>
-<h3 align="center">A passionate Software Engineer student from Albania</h3>
+<h3 align="center">A passionate Software Engineer student</h3>
 
 - 🔭 I’m currently working on **Instagram Clone**
 
-- 🌱 I’m currently learning about compilers
+- 🌱 I’m currently learning about Spring Boot
 
 - 👨‍💻 All of my projects are available at [regiloshi.com](regiloshi.com)
 
